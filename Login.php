@@ -58,6 +58,8 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         if($Final->num_rows > 0){
             header("Location:Home_El-Cultivo.html");
             
+        }else{
+          $passErr = "Invalid Password";
         }
         
       
