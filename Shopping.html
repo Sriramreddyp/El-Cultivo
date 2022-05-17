@@ -189,13 +189,13 @@
 
     <script>
       AOS.init();
-      var seeds = document.getElementsByClassName("card-seeds");
+      var seed = document.getElementsByClassName("card-seeds");
       var hb = document.getElementsByClassName("card-hb");
       var pesti = document.getElementsByClassName("card-pesti");
 
       function showPesti() {
-        for (let i = 0; i < seeds.length; i++) {
-          seeds[i].style.display = "none";
+        for (let i = 0; i < seed.length; i++) {
+          seed[i].style.display = "none";
         }
         for (let i = 0; i < hb.length; i++) {
           hb[i].style.display = "none";
@@ -213,15 +213,15 @@
         for (let i = 0; i < hb.length; i++) {
           hb[i].style.display = "none";
         }
-        for (let i = 0; i < seeds.length; i++) {
-          seeds[i].style.display = "block";
+        for (let i = 0; i < seed.length; i++) {
+          seed[i].style.display = "block";
         }
       }
       function showhb() {
         var seeds = document.getElementsByClassName("card-seeds");
         var pesti = document.getElementsByClassName("card-pesti");
         for (let i = 0; i < seeds.length; i++) {
-          seeds[i].style.display = "none";
+          seed[i].style.display = "none";
         }
         for (let i = 0; i < pesti.length; i++) {
           pesti[i].style.display = "none";
