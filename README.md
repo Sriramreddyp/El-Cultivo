@@ -1,10 +1,10 @@
 # El-Cultivo - *lets Cultivate Together..* :seedling: :deciduous_tree:
 
-## A Farmer Freinfly initiative developed for social interaction among the farmers.. :world_map:
+## A Farmer Freindly initiative developed for social interaction among the farmers.. :world_map:
 
 ### Description :
   
-  This initiative was developed in order to grab farmers into this technologically enabled world and to make use all resources of it mainly concentrating on ***Socializing***.
+  This initiative was developed in order to grab farmers into this technologically enabled world and to make use all resources of it, mainly concentrating on ***Socializing***.
   
  ### **Releses and Features implemented** : 
  
